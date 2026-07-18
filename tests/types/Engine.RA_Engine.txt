@@ -1,0 +1,8 @@
+/RACORE.dll
+RACORE.dll
+/libRACORE.so
+libRACORE.so
+/libRACORE.dylib
+libRACORE.dylib
+/RA/RA.ini
+RA/RA.ini
